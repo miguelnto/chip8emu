@@ -14,7 +14,7 @@ cargo run <rom_file>
 
 [Pong](resources/pong.rom) running in Chip8emu.
 
-<video width="630" height="300" src="doc/pong.mp4"></video>
+<video width="630" height="300" src="doc/pong.mp4" controls></video>
 
 
 # References
